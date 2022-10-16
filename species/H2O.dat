@@ -1,0 +1,6 @@
+name {water};
+chemical {H2O};
+composition {2,0,0,1};
+h_formation {200};
+molar_mass {18};
+
